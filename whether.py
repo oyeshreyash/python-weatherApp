@@ -6,6 +6,7 @@ from tkinter import *
 root = Tk()
 root.geometry("400x200")
 root.title('Weather app')
+root.iconbitmap('favicon.ico')
 root.configure(background = 'bisque')
 
 global api
