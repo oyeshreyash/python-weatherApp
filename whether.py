@@ -10,7 +10,7 @@ root.iconbitmap('favicon.ico')
 root.configure(background = 'bisque')
 
 global api
-api = "48f41b03d3b1f0a9867b61f6e3742b68"
+api = "<    Private    >"
 
 global city_text
 city_text = Entry(root)
